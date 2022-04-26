@@ -1,1 +1,1 @@
-This project is not yet completed. The data is currently being generated, and is expected to be finished relatively soon.
+This project was run in a kaggle notebook. Please make sure to change the location paths of the mask and image folders if trying to run this project elsewhere.
